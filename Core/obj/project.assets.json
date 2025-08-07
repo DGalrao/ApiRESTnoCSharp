@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Imagens\\Tudo\\Programação\\Projetos\\TESTE\\Core\\Core.csproj",
+      "projectUniqueName": "E:\\Imagens\\Tudo\\Programação\\Projetos\\Estudando-CSharp\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "E:\\Imagens\\Tudo\\Programação\\Projetos\\TESTE\\Core\\Core.csproj",
+      "projectPath": "E:\\Imagens\\Tudo\\Programação\\Projetos\\Estudando-CSharp\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "E:\\Imagens\\Tudo\\Programação\\Projetos\\TESTE\\Core\\obj\\",
+      "outputPath": "E:\\Imagens\\Tudo\\Programação\\Projetos\\Estudando-CSharp\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config"
