@@ -209,6 +209,29 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "ApiRESTnoCSharp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ApiRESTnoCSharp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiRESTnoCSharp.Domain.dll": {}
+        }
+      },
+      "ApiRESTnoCSharp.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ApiRESTnoCSharp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ApiRESTnoCSharp.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiRESTnoCSharp.Domain.Core.dll": {}
+        }
       }
     }
   },
@@ -574,10 +597,22 @@
         "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ApiRESTnoCSharp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ApiRESTnoCSharp.Domain/ApiRESTnoCSharp.Domain.csproj",
+      "msbuildProject": "../ApiRESTnoCSharp.Domain/ApiRESTnoCSharp.Domain.csproj"
+    },
+    "ApiRESTnoCSharp.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../ApiRESTnoCSharp.Domain.Core/ApiRESTnoCSharp.Domain.Core.csproj",
+      "msbuildProject": "../ApiRESTnoCSharp.Domain.Core/ApiRESTnoCSharp.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "ApiRESTnoCSharp.Domain >= 1.0.0",
+      "ApiRESTnoCSharp.Domain.Core >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.8"
     ]
   },
@@ -613,7 +648,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain.Core\\ApiRESTnoCSharp.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain.Core\\ApiRESTnoCSharp.Domain.Core.csproj"
+            },
+            "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain\\ApiRESTnoCSharp.Domain.csproj": {
+              "projectPath": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain\\ApiRESTnoCSharp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
