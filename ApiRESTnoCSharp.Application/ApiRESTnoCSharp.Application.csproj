@@ -6,9 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Dtos\" />
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\ApiRESTnoCSharp.Domain.Core\ApiRESTnoCSharp.Domain.Core.csproj" />
+	</ItemGroup>
 
 </Project>

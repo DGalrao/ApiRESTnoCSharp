@@ -7,14 +7,46 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "ApiRESTnoCSharp.Application/1.0.0": {
+        "dependencies": {
+          "ApiRESTnoCSharp.Domain.Core": "1.0.0"
+        },
         "runtime": {
           "ApiRESTnoCSharp.Application.dll": {}
+        }
+      },
+      "ApiRESTnoCSharp.Domain/1.0.0": {
+        "runtime": {
+          "ApiRESTnoCSharp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ApiRESTnoCSharp.Domain.Core/1.0.0": {
+        "dependencies": {
+          "ApiRESTnoCSharp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ApiRESTnoCSharp.Domain.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ApiRESTnoCSharp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiRESTnoCSharp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiRESTnoCSharp.Domain.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,9 +1,13 @@
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Infrastructure.deps.json
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Infrastructure.dll
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Infrastructure.pdb
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Application.dll
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.dll
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.Services.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Application.pdb
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.pdb
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.Services.pdb
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.pdb
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\obj\Debug\net8.0\ApiRESTnoCSharp.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Infrastructure\obj\Debug\net8.0\ApiRESTnoCSharp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig

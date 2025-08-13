@@ -210,6 +210,19 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "ApiRESTnoCSharp.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ApiRESTnoCSharp.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ApiRESTnoCSharp.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiRESTnoCSharp.Application.dll": {}
+        }
+      },
       "ApiRESTnoCSharp.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -231,6 +244,19 @@
         },
         "runtime": {
           "bin/placeholder/ApiRESTnoCSharp.Domain.Core.dll": {}
+        }
+      },
+      "ApiRESTnoCSharp.Domain.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ApiRESTnoCSharp.Domain.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ApiRESTnoCSharp.Domain.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiRESTnoCSharp.Domain.Services.dll": {}
         }
       }
     }
@@ -598,6 +624,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "ApiRESTnoCSharp.Application/1.0.0": {
+      "type": "project",
+      "path": "../ApiRESTnoCSharp.Application/ApiRESTnoCSharp.Application.csproj",
+      "msbuildProject": "../ApiRESTnoCSharp.Application/ApiRESTnoCSharp.Application.csproj"
+    },
     "ApiRESTnoCSharp.Domain/1.0.0": {
       "type": "project",
       "path": "../ApiRESTnoCSharp.Domain/ApiRESTnoCSharp.Domain.csproj",
@@ -607,12 +638,19 @@
       "type": "project",
       "path": "../ApiRESTnoCSharp.Domain.Core/ApiRESTnoCSharp.Domain.Core.csproj",
       "msbuildProject": "../ApiRESTnoCSharp.Domain.Core/ApiRESTnoCSharp.Domain.Core.csproj"
+    },
+    "ApiRESTnoCSharp.Domain.Services/1.0.0": {
+      "type": "project",
+      "path": "../ApiRESTnoCSharp.Domain.Services/ApiRESTnoCSharp.Domain.Services.csproj",
+      "msbuildProject": "../ApiRESTnoCSharp.Domain.Services/ApiRESTnoCSharp.Domain.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "ApiRESTnoCSharp.Application >= 1.0.0",
       "ApiRESTnoCSharp.Domain >= 1.0.0",
       "ApiRESTnoCSharp.Domain.Core >= 1.0.0",
+      "ApiRESTnoCSharp.Domain.Services >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.8"
     ]
   },
@@ -649,8 +687,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Application\\ApiRESTnoCSharp.Application.csproj": {
+              "projectPath": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Application\\ApiRESTnoCSharp.Application.csproj"
+            },
             "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain.Core\\ApiRESTnoCSharp.Domain.Core.csproj": {
               "projectPath": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain.Core\\ApiRESTnoCSharp.Domain.Core.csproj"
+            },
+            "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain.Services\\ApiRESTnoCSharp.Domain.Services.csproj": {
+              "projectPath": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain.Services\\ApiRESTnoCSharp.Domain.Services.csproj"
             },
             "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain\\ApiRESTnoCSharp.Domain.csproj": {
               "projectPath": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Domain\\ApiRESTnoCSharp.Domain.csproj"

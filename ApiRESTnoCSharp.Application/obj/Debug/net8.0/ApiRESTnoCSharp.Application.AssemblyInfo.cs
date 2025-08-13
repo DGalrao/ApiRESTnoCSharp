@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiRESTnoCSharp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de74fd93c4f1526fb3ac23dff6b58c831a13e712")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bc399f4601ceb2bedaf9595e741cc56b40d47d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiRESTnoCSharp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiRESTnoCSharp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
