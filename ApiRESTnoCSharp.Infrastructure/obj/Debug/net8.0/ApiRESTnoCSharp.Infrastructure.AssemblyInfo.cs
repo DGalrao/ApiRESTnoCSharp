@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiRESTnoCSharp.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed0b45731d275fd15f51b0d9110ff8a53de91fb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bc399f4601ceb2bedaf9595e741cc56b40d47d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiRESTnoCSharp.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiRESTnoCSharp.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

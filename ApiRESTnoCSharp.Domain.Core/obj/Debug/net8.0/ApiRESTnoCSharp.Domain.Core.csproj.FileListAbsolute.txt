@@ -1,0 +1,16 @@
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.deps.json
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.pdb
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.pdb
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.AssemblyInfo.cs
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.sourcelink.json
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTn.B3E97A82.Up2Date
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\refint\ApiRESTnoCSharp.Domain.Core.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.Core.pdb
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain.Core\obj\Debug\net8.0\ref\ApiRESTnoCSharp.Domain.Core.dll

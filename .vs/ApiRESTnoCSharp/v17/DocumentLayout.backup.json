@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52AE4FC1-6792-4904-AD88-5525F6E5A315}|ApiRESTnoCSharp.Application\\ApiRESTnoCSharp.Application.csproj|c:\\users\\dgalrao\\documents\\projetos\\apirestnocsharp\\apirestnocsharp.application\\applicationservicecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AE4FC1-6792-4904-AD88-5525F6E5A315}|ApiRESTnoCSharp.Application\\ApiRESTnoCSharp.Application.csproj|solutionrelative:apirestnocsharp.application\\applicationservicecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationServiceCliente.cs",
+              "DocumentMoniker": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Application\\ApplicationServiceCliente.cs",
+              "RelativeDocumentMoniker": "ApiRESTnoCSharp.Application\\ApplicationServiceCliente.cs",
+              "ToolTip": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Application\\ApplicationServiceCliente.cs",
+              "RelativeToolTip": "ApiRESTnoCSharp.Application\\ApplicationServiceCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T16:43:48.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

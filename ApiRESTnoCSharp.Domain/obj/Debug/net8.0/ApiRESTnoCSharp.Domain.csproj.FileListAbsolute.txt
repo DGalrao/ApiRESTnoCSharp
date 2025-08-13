@@ -1,0 +1,12 @@
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.deps.json
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\bin\Debug\net8.0\ApiRESTnoCSharp.Domain.pdb
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.AssemblyInfoInputs.cache
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.AssemblyInfo.cs
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.sourcelink.json
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\refint\ApiRESTnoCSharp.Domain.dll
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\ApiRESTnoCSharp.Domain.pdb
+C:\Users\dgalrao\Documents\Projetos\ApiRESTnoCSharp\ApiRESTnoCSharp.Domain\obj\Debug\net8.0\ref\ApiRESTnoCSharp.Domain.dll
