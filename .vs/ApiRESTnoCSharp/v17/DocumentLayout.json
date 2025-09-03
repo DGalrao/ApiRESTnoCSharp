@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52AE4FC1-6792-4904-AD88-5525F6E5A315}|ApiRESTnoCSharp.Application\\ApiRESTnoCSharp.Application.csproj|c:\\users\\dgalrao\\documents\\projetos\\apirestnocsharp\\apirestnocsharp.application\\applicationserviceproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52AE4FC1-6792-4904-AD88-5525F6E5A315}|ApiRESTnoCSharp.Application\\ApiRESTnoCSharp.Application.csproj|solutionrelative:apirestnocsharp.application\\applicationserviceproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24952CAD-B9E8-48CB-A72E-08C73973CF2B}|ApiRESTnoCSharp.API\\ApiRESTnoCSharp.API.csproj|c:\\users\\dgalrao\\documents\\projetos\\apirestnocsharp\\apirestnocsharp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24952CAD-B9E8-48CB-A72E-08C73973CF2B}|ApiRESTnoCSharp.API\\ApiRESTnoCSharp.API.csproj|solutionrelative:apirestnocsharp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{52AE4FC1-6792-4904-AD88-5525F6E5A315}|ApiRESTnoCSharp.Application\\ApiRESTnoCSharp.Application.csproj|c:\\users\\dgalrao\\documents\\projetos\\apirestnocsharp\\apirestnocsharp.application\\applicationservicecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52AE4FC1-6792-4904-AD88-5525F6E5A315}|ApiRESTnoCSharp.Application\\ApiRESTnoCSharp.Application.csproj|solutionrelative:apirestnocsharp.application\\applicationservicecliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24952CAD-B9E8-48CB-A72E-08C73973CF2B}|ApiRESTnoCSharp.API\\ApiRESTnoCSharp.API.csproj|c:\\users\\dgalrao\\documents\\projetos\\apirestnocsharp\\apirestnocsharp.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24952CAD-B9E8-48CB-A72E-08C73973CF2B}|ApiRESTnoCSharp.API\\ApiRESTnoCSharp.API.csproj|solutionrelative:apirestnocsharp.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24952CAD-B9E8-48CB-A72E-08C73973CF2B}|ApiRESTnoCSharp.API\\ApiRESTnoCSharp.API.csproj|c:\\users\\dgalrao\\documents\\projetos\\apirestnocsharp\\apirestnocsharp.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24952CAD-B9E8-48CB-A72E-08C73973CF2B}|ApiRESTnoCSharp.API\\ApiRESTnoCSharp.API.csproj|solutionrelative:apirestnocsharp.api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B07A58-F463-48C8-AFD4-DD18E9446971}|ApiRESTnoCSharp.Infrastructure\\ApiRESTnoCSharp.Infrastructure.csproj|c:\\users\\dgalrao\\documents\\projetos\\apirestnocsharp\\apirestnocsharp.infrastructure\\data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B07A58-F463-48C8-AFD4-DD18E9446971}|ApiRESTnoCSharp.Infrastructure\\ApiRESTnoCSharp.Infrastructure.csproj|solutionrelative:apirestnocsharp.infrastructure\\data\\sqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24952CAD-B9E8-48CB-A72E-08C73973CF2B}|ApiRESTnoCSharp.API\\ApiRESTnoCSharp.API.csproj|c:\\users\\dgalrao\\documents\\projetos\\apirestnocsharp\\apirestnocsharp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{24952CAD-B9E8-48CB-A72E-08C73973CF2B}|ApiRESTnoCSharp.API\\ApiRESTnoCSharp.API.csproj|solutionrelative:apirestnocsharp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationServiceProduto.cs",
-              "DocumentMoniker": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Application\\ApplicationServiceProduto.cs",
-              "RelativeDocumentMoniker": "ApiRESTnoCSharp.Application\\ApplicationServiceProduto.cs",
-              "ToolTip": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Application\\ApplicationServiceProduto.cs",
-              "RelativeToolTip": "ApiRESTnoCSharp.Application\\ApplicationServiceProduto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Infrastructure\\Data\\SqlContext.cs",
+              "RelativeDocumentMoniker": "ApiRESTnoCSharp.Infrastructure\\Data\\SqlContext.cs",
+              "ToolTip": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Infrastructure\\Data\\SqlContext.cs",
+              "RelativeToolTip": "ApiRESTnoCSharp.Infrastructure\\Data\\SqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T17:15:37.457Z",
+              "WhenOpened": "2025-09-03T14:32:43.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiRESTnoCSharp.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.API\\appsettings.json",
+              "RelativeToolTip": "ApiRESTnoCSharp.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T12:12:34.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.API\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRESTnoCSharp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.API\\Program.cs",
+              "RelativeToolTip": "ApiRESTnoCSharp.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T14:14:01.073Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationServiceCliente.cs",
-              "DocumentMoniker": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Application\\ApplicationServiceCliente.cs",
-              "RelativeDocumentMoniker": "ApiRESTnoCSharp.Application\\ApplicationServiceCliente.cs",
-              "ToolTip": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.Application\\ApplicationServiceCliente.cs",
-              "RelativeToolTip": "ApiRESTnoCSharp.Application\\ApplicationServiceCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.API\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ApiRESTnoCSharp.API\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.API\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ApiRESTnoCSharp.API\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T16:43:48.626Z",
+              "WhenOpened": "2025-09-02T14:50:50.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ApiRESTnoCSharp.API\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\dgalrao\\Documents\\Projetos\\ApiRESTnoCSharp\\ApiRESTnoCSharp.API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ApiRESTnoCSharp.API\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T13:52:47.466Z",
               "EditorCaption": ""
             }
           ]

@@ -7,18 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac" Version="8.4.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.8" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ApiRESTnoCSharp.Application\ApiRESTnoCSharp.Application.csproj" />
     <ProjectReference Include="..\ApiRESTnoCSharp.Domain.Core\ApiRESTnoCSharp.Domain.Core.csproj" />
     <ProjectReference Include="..\ApiRESTnoCSharp.Domain.Services\ApiRESTnoCSharp.Domain.Services.csproj" />
-    <ProjectReference Include="..\ApiRESTnoCSharp.Domain\ApiRESTnoCSharp.Domain.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="CrossCutting\IOC\" />
+	<ProjectReference Include="..\ApiRESTnoCSharp.Domain\ApiRESTnoCSharp.Domain.csproj" />
   </ItemGroup>
 
 </Project>
